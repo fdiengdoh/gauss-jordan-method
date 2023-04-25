@@ -12,5 +12,5 @@ x + y + 2 = 5
 This can be written in agumented matrix form as follows:  
 
 ```math
-\begin{bmatrix}X\\Y\end{bmatrix}
+\begin{bmatrix}1 & 1 & 1\\2 & 3 & 5\\4 & 0 & 5\end{bmatrix}
 ```
