@@ -17,3 +17,4 @@ This can be written in agumented matrix form as follows:
 \begin{bmatrix}1 & 1 & 1\\2 & 3 & 5\\4 & 0 & 5\end{bmatrix}
 \begin{bmatrix}5\\8\\2\end{bmatrix}
 ```
+The two matrices can be then use as input in to the gauss-jordan subroutine to find the solution for $x$, $y$ and $z$.
