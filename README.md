@@ -5,6 +5,6 @@ The subroutine used here is adapted from [Numerical Recipies](http://phys.uri.ed
 
 **Example**
 
-x + y + 2 = 5 \\
-2x + 3y + 5z = 8 \\
+x + y + 2 = 5
+2x + 3y + 5z = 8
 4x + 5z = 2
