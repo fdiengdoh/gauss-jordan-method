@@ -9,3 +9,8 @@ x + y + 2 = 5
 2x + 3y + 5z = 8  
 4x + 5z = 2  
 
+This can be written in agumented matrix form as follows:  
+
+```math
+begin{bmatrix}X\\Y\end{bmatrix}
+```
