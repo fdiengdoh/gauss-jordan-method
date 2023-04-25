@@ -18,3 +18,7 @@ This can be written in agumented matrix form as follows:
 \begin{bmatrix}5\\8\\2\end{bmatrix}
 ```
 The two matrices can be then use as input in to the gauss-jordan subroutine to find the solution for $x$, $y$ and $z$.
+
+# File List
+- [lieq.f](/code/lieq.f) - Main Routine to input the matrices
+- [gauss-jordan.f](/code/lieq.f) - Gauss-Jordan Elimination Subroutine 
